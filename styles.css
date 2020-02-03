@@ -1,0 +1,19 @@
+body{
+    color:black;
+}
+
+h1{
+    font-size: 100px;
+    font-family: Impact, Charcoal, sans-serif;
+    margin: 15px;
+}
+
+h2{
+    font-family: Verdana, Geneva, sans-serif;
+    margin: 15px;
+}
+
+p{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin: 15px;
+}
