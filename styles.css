@@ -27,7 +27,8 @@ p{
 .album-title{
     margin: 50px 0px 10px 10px;
     font-size: 35px;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
 }
 .image
 {
@@ -44,7 +45,52 @@ p{
 
 
 ol{
-    list-style: none
+    list-style: none;
 }
 
-p
+.album-link{
+    font-size: 15px;
+  }
+
+
+  .album-title > a{
+    font-weight: normal;
+  }
+  .album-title > p{
+      font-weight: normal;
+  }
+  .makebold{
+      font-weight: 900;
+  }
+
+  .makeorange{
+      color:orange;
+  }
+  /* li >.album-title{
+      font-weight: normal;
+  } */
+
+  /* ol:first-child{
+      font-weight: bold;
+  } */
+
+  /* li:first-child{
+    font-weight: bold;
+  } */
+
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .red-background{
+      background-color: red;
+  }
