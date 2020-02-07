@@ -4,30 +4,29 @@ body{
 
 h1{
     font-size: 100px;
-    font-family: Impact, Charcoal, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 15px;
 }
 
 h2{
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 15px;
 }
 
 p{
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family: 'PT Sans', sans-serif;
     margin: 15px;
 }
 #albums-h1
 {
     font-size: 65px;
-    font-family: Impact, Charcoal, sans-serif;
     margin: 100px 15px 50px 15px;
 }
 
 .album-title{
     margin: 50px 0px 10px 10px;
     font-size: 35px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight:bold;
 }
 .image
@@ -40,7 +39,6 @@ p{
 {
     margin: 50px 0px 10px 10px;
     font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif
 }
 
 
