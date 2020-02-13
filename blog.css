@@ -1,0 +1,38 @@
+body {
+  color: black;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: "Montserrat", sans-serif;
+  margin: 15px;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  margin: 15px;
+}
+
+p {
+  font-family: "PT Sans", sans-serif;
+  margin: 15px;
+}
+h5 {
+  font-family: "Montserrat", sans-serif;
+  margin: 15px;
+}
+
+.blog-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.blog-container > li {
+  width: 45%;
+  padding: 15px;
+}
+img {
+  padding: 15px;
+  width: 100%;
+}
