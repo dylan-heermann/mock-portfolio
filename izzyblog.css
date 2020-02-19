@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat";
+    font-size: 1rem;
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.header {
+    margin: 0 auto;
+    background-color: white;
+    font-size: .8rem;
+    /* padding-top: 8px; */
+    /* padding-bottom: 8px; */
+    display: flex;
+}
+
+.admin {
+    padding-right: 8px;
+}
+
+.title {
+    background-color: white;
+}
+
+.title-name {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #e1306c, #fd1d1d);
+    color: white;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button {
+    padding: 4px;
+}
+
+.blog-content {
+    font-family: "PT Sans";
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.blog-content p, img {
+    width: 100%;
+    padding-top: 16px;
+   
+}
+
+.bigger-font {
+    font-family: "PT Sans";
+    font-size: 1.5rem;
+    font-style: italic;
+}
